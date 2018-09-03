@@ -1,0 +1,27 @@
+jsession_id
+
+ip_address
+time_span
+files_accessed
+
+
+
+
+{
+"time_span" : {
+	"start" : "12/12/20017 12:12:34",
+	"end" :  "12/12/20017 12:12:34"
+	
+		"files_accessed" {
+			"list_expression" : ["*.cat",".prod"]
+		}
+	
+	}
+
+}
+	
+	
+	
+	
+			
+
